@@ -1,4 +1,4 @@
-# PromotionWebsiteTutorial
+# PromotionalWebsiteTutorial
 This is the code for the promotional website tutorial that I made on CodeStudio. Feel free to use it the way you want to.
 
 YouTube tutorial Playlist: 
